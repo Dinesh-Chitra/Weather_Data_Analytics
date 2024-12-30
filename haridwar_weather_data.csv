@@ -1,0 +1,2 @@
+city,temperature,description,humidity,wind_speed,wind_direction,clouds,visibility,precipitation,pressure,weather_alerts
+Haridwar,16.44,scattered clouds,54,1.29,258,39,10000,0,1016,No alerts
